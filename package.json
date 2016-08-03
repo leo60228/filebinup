@@ -1,0 +1,19 @@
+{
+  "name": "filebinup",
+  "version": "1.0.0",
+  "description": "Upload file to Git repository with semi-random name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo60228/filebinup.git"
+  },
+  "author": "leo60228",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leo60228/filebinup/issues"
+  },
+  "homepage": "https://github.com/leo60228/filebinup#readme"
+}
